@@ -1,0 +1,1 @@
+java -jar -Pproduct yuntu-eureka-server.jar
